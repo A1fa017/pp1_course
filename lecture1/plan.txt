@@ -1,0 +1,12 @@
+Intro to C++
+VS code, MinGW
+What is IDE?
+What is compiler?
+Intro to structure code
+<iostream> library(cout)
+Comments
+Variables
+Data types(int,long,long long,float,double)
+Binary operations(+,-,*,/,%,+=,++,*=,--,-=,/=,%=)
+<iostream> library(cin)
+<cmath> library

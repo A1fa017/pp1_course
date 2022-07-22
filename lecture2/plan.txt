@@ -1,0 +1,4 @@
+Math functions(abs, max, min)
+<cmath> library(abs, ceil, floor)
+Data Type(bool)
+Logical Operations(and, or, xor, not)
